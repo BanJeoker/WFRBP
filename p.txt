@@ -1,9 +1,9 @@
-the r delete from m3
+the r master edit
 p
 r
 l
 b
 test1
-
+edit from master
 
 edit from m2
