@@ -1,4 +1,4 @@
-the r master conflict edit
+the r master nconf edit
 p
 r
 l
