@@ -1,3 +1,5 @@
+added from mac15
+
 # Probability of not switching
 0.7082089
 # Emission probabilities
@@ -7,9 +9,3 @@
 # Emissions
 [2, 1, 2, 1, 1, 1, 3, 1, 1, 1, 2, 1, 3, 3, 1, 1, 1, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 2, 2, 3, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 3, 1, 2, 1, 1, 1, 2, 3, 1, 1, 2, 2, 2, 3, 2, 1, 3, 1, 3, 3, 1, 1, 3, 1, 2, 3, 1, 1, 1, 2, 2, 2, 1, 3, 1, 1, 1, 1, 2, 3, 1, 2, 2, 2, 1, 2, 2, 1, 1, 3, 1, 1, 2, 1, 1, 2, 1, 2]
 
-
-
-change from Branch from15 github
-
-
-change from Branch second from15 github
